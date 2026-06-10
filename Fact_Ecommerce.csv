@@ -1,0 +1,16 @@
+Order_ID,Customer_ID,Order_Date,Customer_Name,City,State,Signup_Date,Order_Item_ID,Product_ID,Quantity,Product_Name,Category,Price,Revenue
+O001,C001,2025-02-01,Rahul Sharma,Bangalore,Karnataka,2025-01-01,OI001,P001,2,Wireless Mouse,Electronics,599,1198
+O001,C001,2025-02-01,Rahul Sharma,Bangalore,Karnataka,2025-01-01,OI002,P004,1,Water Bottle,Home & Kitchen,399,399
+O002,C002,2025-02-02,Priya Rao,Mysore,Karnataka,2025-01-05,OI003,P002,1,Office Chair,Furniture,4999,4999
+O003,C003,2025-02-03,Arjun Patel,Ahmedabad,Gujarat,2025-01-10,OI004,P003,2,Laptop Stand,Electronics,999,1998
+O003,C003,2025-02-03,Arjun Patel,Ahmedabad,Gujarat,2025-01-10,OI005,P005,3,Notebook Pack,Stationery,299,897
+O004,C004,2025-02-04,Sneha Reddy,Hyderabad,Telangana,2025-01-12,OI006,P006,1,Bluetooth Speaker,Electronics,2499,2499
+O005,C005,2025-02-05,Karan Mehta,Mumbai,Maharashtra,2025-01-15,OI007,P007,1,Study Table,Furniture,6999,6999
+O006,C006,2025-02-06,Neha Singh,Delhi,Delhi,2025-01-18,OI008,P008,2,Desk Lamp,Home & Kitchen,899,1798
+O006,C006,2025-02-06,Neha Singh,Delhi,Delhi,2025-01-18,OI009,P010,4,Coffee Mug,Home & Kitchen,249,996
+O007,C007,2025-02-07,Vikram Nair,Kochi,Kerala,2025-01-20,OI010,P009,1,Keyboard,Electronics,1499,1499
+O008,C008,2025-02-08,Pooja Verma,Jaipur,Rajasthan,2025-01-22,OI011,P001,3,Wireless Mouse,Electronics,599,1797
+O009,C009,2025-02-09,Aditya Kumar,Patna,Bihar,2025-01-25,OI012,P004,2,Water Bottle,Home & Kitchen,399,798
+O009,C009,2025-02-09,Aditya Kumar,Patna,Bihar,2025-01-25,OI013,P006,1,Bluetooth Speaker,Electronics,2499,2499
+O010,C010,2025-02-10,Ananya Das,Kolkata,West Bengal,2025-01-28,OI014,P005,5,Notebook Pack,Stationery,299,1495
+O010,C010,2025-02-10,Ananya Das,Kolkata,West Bengal,2025-01-28,OI015,P008,1,Desk Lamp,Home & Kitchen,899,899

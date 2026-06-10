@@ -1,0 +1,16 @@
+Order_Item_ID,Order_ID,Product_ID,Quantity,Product_Name,Category,Price,Revenue
+OI001,O001,P001,2,Wireless Mouse,Electronics,599,1198
+OI002,O001,P004,1,Water Bottle,Home & Kitchen,399,399
+OI003,O002,P002,1,Office Chair,Furniture,4999,4999
+OI004,O003,P003,2,Laptop Stand,Electronics,999,1998
+OI005,O003,P005,3,Notebook Pack,Stationery,299,897
+OI006,O004,P006,1,Bluetooth Speaker,Electronics,2499,2499
+OI007,O005,P007,1,Study Table,Furniture,6999,6999
+OI008,O006,P008,2,Desk Lamp,Home & Kitchen,899,1798
+OI009,O006,P010,4,Coffee Mug,Home & Kitchen,249,996
+OI010,O007,P009,1,Keyboard,Electronics,1499,1499
+OI011,O008,P001,3,Wireless Mouse,Electronics,599,1797
+OI012,O009,P004,2,Water Bottle,Home & Kitchen,399,798
+OI013,O009,P006,1,Bluetooth Speaker,Electronics,2499,2499
+OI014,O010,P005,5,Notebook Pack,Stationery,299,1495
+OI015,O010,P008,1,Desk Lamp,Home & Kitchen,899,899
